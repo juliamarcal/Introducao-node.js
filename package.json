@@ -1,0 +1,17 @@
+{
+  "name": "API_produtos",
+  "version": "1.0.0",
+  "description": "Uma API de produtos para a montagem de um e-Comerce",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Julia Marcal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
